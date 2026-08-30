@@ -36,3 +36,23 @@ Correções de termos entram no
 [`game_terms.csv`](https://github.com/alehandromendes/tradutor-legendas/blob/main/overlay/gamefill/game_terms.csv)
 do app. Pra regenerar uma tradução:
 `python -m overlay.gamefill.patch_pt` (veja o README do app).
+
+---
+
+## Sobre a tradução
+
+As traduções deste repositório são feitas por **inteligência artificial** (tradução
+automática, sem revisão humana linha a linha), com **estratégias de desambiguação
+voltadas a jogos**:
+
+- **Dicionário de termos ambíguos** ([`game_terms.csv`](https://github.com/alehandromendes/tradutor-legendas/blob/main/overlay/gamefill/game_terms.csv))
+  — fixa o sentido correto de palavras que teriam duas leituras: *gear* → equipamento
+  (não "engrenagem"), *cast* → conjurar (não "elenco"), *dungeon* → masmorra,
+  *cooldown* → recarga, *raid* → raide…
+- **Termos do universo preservados** — *Beyonder*, *Sequência*, *Caminho*,
+  *Vigia Noturno*, *Marionete*, *Semideus*, nomes próprios do glossário.
+- **Marcação protegida** — tags de formatação (`<InvHighlight>`, `<Mark id=…>`),
+  variáveis (`%s`, `{0}`) e quebras de linha passam intactas pela tradução.
+
+Mesmo assim, é tradução de máquina: pode ter escorregões. O app **guarda o arquivo
+original** antes de instalar e restaura em um clique.
