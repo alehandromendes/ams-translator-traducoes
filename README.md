@@ -9,9 +9,14 @@ restaurar).
 
 ## Jogos
 
-| Jogo | Idiomas | Base |
-|------|---------|------|
-| Lord of Mysteries (诡秘之主) | EN → PT-BR | [CPDD English patch](https://github.com/Lani27/lord-of-mysteries-english-patch) |
+| Jogo | Ponte de tradução | Base |
+|------|-------------------|------|
+| Lord of Mysteries (诡秘之主) | 中文 → EN → PT-BR | [CPDD English patch](https://github.com/Lani27/lord-of-mysteries-english-patch) |
+
+O jogo é em chinês. O **CPDD English patch** já faz 中文 → inglês; este repositório
+traduz o **inglês do patch → PT-BR**, então a tradução completa é uma ponte
+**中文 → EN → PT-BR** (o inglês serve de pivô — nomes próprios já vêm anglicizados,
+e a tradução EN→PT sai melhor que CN→PT direto).
 
 ## Como funciona
 
