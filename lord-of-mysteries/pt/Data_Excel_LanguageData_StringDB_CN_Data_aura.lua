@@ -1,0 +1,18 @@
+return {
+  [206709528200704] = "Para teste",
+  [206709528205312] = "Aura da estátua da Terra Abandonada dos Deuses",
+  [206709259819520] = "Jogadores próximos são invencíveis",
+  [206709528253184] = "Livro de latão_Proteção de descendentes_Produto de alquimia Aura_Battle Axe",
+  [206709528252928] = "Brass Book_Offspring Protection_Alchemy Produto Aura_Greatsword",
+  [206709528202240] = "Aura eficaz no grupo",
+  [206709528217088] = "Aura para companheiros de equipe e para si mesmo",
+  [206709528216832] = "Grande aura após carregar",
+  [206709528216576] = "Aura pequena depois de aprender",
+  [206709528216320] = "Lento dentro do alcance",
+  [206709528215552] = "Estagnação dentro do alcance",
+  [206709528215296] = "Imobilização dentro do alcance",
+  [206709528215040] = "Marque em monstros dentro do alcance",
+  [206709528211712] = "Aumento do bloqueio de habilidade do companheiro de equipe",
+  [206709528204288] = "Aura de equipamento de xadrez automático",
+  [206709528248832] = "Vovó Lobo - Adaga Voadora - Área de Dano",
+}

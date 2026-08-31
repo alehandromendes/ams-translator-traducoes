@@ -1,0 +1,16 @@
+return {
+  ["\"RAIN_EFFECT_IGNORE_WEATHER_PARAM_NAME\""] = "Ignorar clima",
+  ["\"RAIN_EFFECT_GENERAL_WET_INTENSITY_PARAM_NAME\""] = "GeralMolhadaIntensidade",
+  ["\"RAIN_EFFECT_WET_INTENSITY_PARAM_NAME\""] = "SimpleWetIntensidade",
+  ["\"MATERIAL_PARAM_NAME_DISSOLVE_DIRECTION\""] = "DissolverDireção",
+  ["\"MATERIAL_PARAM_NAME_DISSOLVE_COLOR\""] = "DissolverEdgeColor",
+  ["\"MATERIAL_PARAM_NAME_CHARACTER_DISSOLVE_ALPHA\""] = "_DissolverAlfa",
+  ["\"MATERIAL_PARAM_NAME_CHARACTER_HEIGHT\""] = "Altura do personagem",
+  ["\"CAMERA_DITHER_DETECTION_PRESET\""] = "AdicionarMeshPreset",
+  ["\"CAMERA_DITHER_ANGLE_THRESHOLD_MAX_NAME\""] = "ÂnguloLimite Máx.",
+  ["\"CAMERA_DITHER_ANGLE_THRESHOLD_MIN_NAME\""] = "Limite de ÂnguloMin",
+  ["\"CAMERA_DITHER_DISTANCE_SCALE_PARAM_NAME\""] = "Escala de distância_CH",
+  ["\"CAMERA_DITHER_WORLD_PIVOT_POINT_PARAM_NAME\""] = "Ponto Dinâmico_WP",
+  ["\"CAMERA_DITHER_ENABLE_OLM_DISSOLVE_PARAM_NAME\""] = "Habilitar OLMDissolver",
+  ["\"CAMERA_DITHER_ENABLE_OLM_CAMERA_DITHER_PARAM_NAME\""] = "AtivarOLMCameraDither",
+}

@@ -1,0 +1,11 @@
+return {
+  ["\"DUNGEON_LIMIT_PROFILE_STANDARD\""] = "Padrão",
+  ["\"LIMIT_REFRESH_WEEK\""] = "SEMANA",
+  ["\"LIMIT_REFRESH_DAY\""] = "DIA",
+  ["\"LIMIT_REFRESH_HALF_SEASON\""] = "MEIA_TEMPORADA",
+  ["\"LIMIT_REFRESH_SEASON\""] = "TEMPORADA",
+  ["\"LIMIT_REFRESH_NONE\""] = "NUNCA",
+  ["\"DUNGEON_LIMIT_PROFILE_UNIQUE\""] = "Exclusivo",
+  ["\"DUNGEON_LIMIT_PROFILE_FACADE\""] = "Fachada",
+  ["\"LIMIT_REFRESH_MONTH\""] = "MÊS",
+}

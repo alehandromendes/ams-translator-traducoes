@@ -1,0 +1,13 @@
+return {
+  ["\"DECAL_MATERIAL_PARAM_NAME_SECTOR_ANGLE\""] = "SetorÂngulo",
+  ["\"DECAL_MATERIAL_PARAM_NAME_DECAL_CONTROL\""] = "Controlar",
+  ["\"DECAL_MATERIAL_PARAM_NAME_DECAL_GRID_SIZE\""] = "Escala de grade",
+  ["\"DECAL_MATERIAL_PARAM_NAME_CONTROL_MODE\""] = "Modo de controle",
+  ["\"DECAL_MATERIAL_PARAM_NAME_GLOW_COLOR\""] = "Cor Brilho",
+  ["\"DECAL_MATERIAL_PARAM_NAME_COLOR\""] = "Cor",
+  ["\"DECAL_MATERIAL_PARAM_NAME_DISSOLVE_MODE\""] = "DissolverModo",
+  ["\"DECAL_MATERIAL_PARAM_NAME_OPACITY\""] = "Opacidade",
+  ["\"DECAL_MATERIAL_PARAM_NAME_DISSOLVE_PROGRESS\""] = "DissolverProgresso",
+  ["\"DECAL_MATERIAL_PARAM_NAME_RING_OUTER_RADIUS\""] = "Raio Externo",
+  ["\"DECAL_MATERIAL_PARAM_NAME_RING_INNER_RADIUS\""] = "Dentro do raio",
+}
