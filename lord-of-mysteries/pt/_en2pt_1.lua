@@ -9706,7 +9706,7 @@ return {
   ["\"Gives one a feeling of home.\""] = "\"Dá uma sensação de casa.\"",
   ["\"Magic Mirror of Despair\" dossier"] = "Dossiê \"Espelho Mágico do Desespero\"",
   ["\"Magic Mirror of Despair\" corresponds to the Sequence 4 Despair Witch Beyonder characteristic, which is easier to solve than the Sequence 1 \"Knowledge Crown\"."] = "\"Espelho Mágico do Desespero\" corresponde à Sequência 4 Bruxa do Desespero Característica de Beyonder , que é mais fácil de resolver do que a Sequência 1 \"Coroa do Conhecimento\".",
-  ["\"Magic Mirror of Despair\" is the only entrance to Tingen in the Mirror."] = "\"Magic Mirror of Despair\" é a única entrada para Tingen in the Mirror.",
+  ["\"Magic Mirror of Despair\" is the only entrance to Tingen in the Mirror."] = "\"Espelho Mágico do Desespero\" é a única entrada para Tingen no Espelho.",
   ["“Marquis Crimson”"] = "“Marquês Carmesim”",
   ["\"Roselle invented the practical steam engine, driving the wave of the Industrial Revolution.\""] = "\"Roselle inventou a prática máquina a vapor, impulsionando a onda da Revolução Industrial.\"",
   ["\"Rosen's Folk Herbal Shop\"... this is the place."] = "\"Loja de ervas folclóricas de Rosen\"... este é o lugar.",
