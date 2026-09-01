@@ -621,7 +621,7 @@ return {
   ["A mad existence upon the sea; strange and varied life forms are born under leather gloves, and every plant is his \"child,\" taking root in experiments."] = "Uma existência louca no mar; formas de vida estranhas e variadas nascem sob luvas de couro, e cada planta é seu “filho”, criando raízes em experimentos.",
   ["Another bell chime rings, and a mottled hour hand is added to the clock face, which is a mix of gray-white and blue-black."] = "Outro sino toca e um ponteiro das horas manchado é adicionado ao mostrador do relógio, que é uma mistura de cinza-branco e azul-preto.",
   ["kZLOAEBlH4GpU3RhaW5EYXRhgrBmYXNoaW9uU3RhaW5JbmZvkZLNDRqCplNsaWRlcpLKPwAAAMs/1si0OVgQY6VDb2xvcpKEoVrKPozDcqFXAaFYAaFZyj6Mw3KEoVrKPwM1TqFXAaFYyj83jjihWco/AzVOqUlzQWR2YW5jZcM="] = "kZLOAEBlH4GpU3RhaW5EYXRhgrBmYXNoaW9uU3RhaW5JbmZvkZLNDRqCplNsaWRlcpLKPwAAAMs/1si0OVgQY6 VDb2xvcpKEoVrKPozDcqFXAaFYAaFZyj6Mw3KEoVrKPwM1TqFXAaFYyj83jjihWco/AzVOqUlzQWR2YW5jZcM=",
-  ["Frye"] = "Fritar",
+  ["Frye"] = "Frye",
   ["End of the Journey"] = "Fim da jornada",
   ["{{ Mr. | Miss }}, are you looking to share a table? There is one seat left here."] = "{{Sr. | Senhorita }}, você quer dividir uma mesa? Resta um assento aqui.",
   ["Confirm bid"] = "Confirmar lance",

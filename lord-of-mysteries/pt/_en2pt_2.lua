@@ -6268,7 +6268,7 @@ return {
   ["Position 2 - Front"] = "Posição 2 - Frente",
   ["Position 2 - Right"] = "Posição 2 - Direita",
   ["Position 2 - Left"] = "Posição 2 - Esquerda",
-  ["Position 2 - Frye"] = "Posição 2 - Fritar",
+  ["Position 2 - Frye"] = "Posição 2 - Frye",
   ["Position 2 - Luo Yao"] = "Posição 2 – Luo Yao",
   ["Position 2 - Xiga"] = "Posição 2 – Xiga",
   ["Position 2 Action"] = "Ação Posição 2",
