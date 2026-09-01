@@ -3146,7 +3146,7 @@ return {
   ["Complete Main Story Chapter 2: \"Tides of the Era\""] = "Conclua a história principal, capítulo 2: \"Marés da Era\"",
   ["Complete Main Story Chapter 2: \"The True Beyonder\""] = "Conclua a história principal, capítulo 2: \"O verdadeiro Beyonder\"",
   ["Complete Chapter 5 of the main storyline, \"Tingen Guardian\""] = "Complete o Capítulo 5 da história principal, \"Tingen Guardian\"",
-  ["Complete main chapter 4: Tingen in the Mirror"] = "Conclua o capítulo principal 4: Tingen no Espelho",
+  ["Complete main chapter 4: Tingen in the Mirror"] = "Conclua o capítulo principal 4: Tingen espelhada",
   ["Completed"] = "Concluído",
   ["Complete the May Manor · Castle Brass Book challenge [Three People Walking · Normal]"] = "Complete o desafio May Manor · Castle Brass Book [Três Pessoas Caminhando · Normal]",
   ["Complete the May Manor · Castle Brass Book challenge [Afterimage Rush · Hard]"] = "Complete o desafio May Manor · Castle Brass Book [Afterimage Rush · Difícil]",

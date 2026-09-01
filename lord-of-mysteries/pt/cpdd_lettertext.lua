@@ -119,7 +119,7 @@ return {
   [634145210387200] = "<P_Yellow> May Manor, trabalho de curto prazo bem remunerado </> \n\n <P_Yellow> Responsabilidades do trabalho </> Após um treinamento simples em May Manor, podar macieiras. \n\n <P_Yellow> Requisitos Básicos </> \n Sem limite de idade, trabalhador, responsável, deve aceitar turnos noturnos. \n <P_Yellow> Jornada de Trabalho </> \n Jornada de trabalho não inferior a 14 horas por dia, por um período de duas semanas. \n <P_Yellow> Salário e Benefícios </> \n Alimentação, acomodação e roupas de trabalho fornecidas, salário semanal de quatro libras, podem ser pagos antecipadamente.",
   [634145210386944] = "Uma vela mística usada em um ritual suicida, com serpente emplumada e decorações de mortos-vivos no castiçal.",
   [634145210386688] = "Um espelho de bronze comum, pequeno em tamanho, novo e requintado, muito adequado como espelho de maquiagem portátil.",
-  [634145210386432] = "Uma arma comum em brigas de gangues; seu dono pode querer usá-lo para autodefesa, mas o poder de Tingen no Espelho não pode ser combatido por balas.",
+  [634145210386432] = "Uma arma comum em brigas de gangues; seu dono pode querer usá-lo para autodefesa, mas o poder de Tingen espelhada não pode ser combatido por balas.",
   [634145210386176] = "Arma de serviço de um policial de Tingen, o carregador está vazio; seu dono deve ter passado por uma batalha feroz.",
   [634145210385920] = "Fragmentos de um espelho de bronze, que parece prever o caos e a morte do titular.",
   [634145210385664] = "Uma maçã mágica cujo estado muda constantemente, de podre para fresca, e depois de fresca para podre...",

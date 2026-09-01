@@ -12190,7 +12190,7 @@ return {
   ["Be safe over there, Lilith."] = "Esteja segura aí, Lilith.",
   ["It's over there."] = "Está ali.",
   ["There, you should address him as Mr. Leonard."] = "Pronto, você deveria chamá-lo de Sr. Leonard.",
-  ["There, I met a lady dressed as a pirate, who told me how to enter Tingen in the Mirror, and also told me that Rozanne was in the Safe House."] = "Lá, conheci uma senhora vestida de pirata, que me contou como entrar em Tingen no Espelho, e também me contou que Rozanne estava na Casa Segura.",
+  ["There, I met a lady dressed as a pirate, who told me how to enter Tingen in the Mirror, and also told me that Rozanne was in the Safe House."] = "Lá, conheci uma senhora vestida de pirata, que me contou como entrar em Tingen espelhada, e também me contou que Rozanne estava na Casa Segura.",
   ["Perform the correct dance in the dance formation around Bonnie!"] = "Execute a dança correta na formação de dança em torno de Bonnie!",
   ["Gather relevant clues in the bar"] = "Reúna pistas relevantes no bar",
   ["Search for required items in the bar"] = "Procure os itens necessários na barra",

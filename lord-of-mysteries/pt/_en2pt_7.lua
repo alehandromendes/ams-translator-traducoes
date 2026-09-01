@@ -3678,7 +3678,7 @@ return {
   ["Magic Mirror of Despair and Trigger Area"] = "Espelho Mágico do Desespero e Área de Gatilho",
   ["The Magic Mirror of Despair is the foundation of this space. Once the mirror is destroyed, this place will soon disintegrate."] = "O Espelho Mágico do Desespero é a base deste espaço. Assim que o espelho for destruído, este lugar logo se desintegrará.",
   ["Shattered Mirror of Despair"] = "Espelho Despedaçado do Desespero",
-  ["With the Magic Mirror of Despair destroyed, Tingen in the Mirror... will soon disappear, right?"] = "Com o Espelho Mágico do Desespero destruído, Tingen no Espelho... desaparecerá em breve, certo?",
+  ["With the Magic Mirror of Despair destroyed, Tingen in the Mirror... will soon disappear, right?"] = "Com o Espelho Mágico do Desespero destruído, Tingen espelhada... desaparecerá em breve, certo?",
   ["Despair Black Flame"] = "Desespero Chama Negra",
   ["Finishing Move"] = "Movimento Final",
   ["A terminally ill young man asks someone to buy a gift to meet a pen pal. Who exactly is the person he wants to see?"] = "Um jovem com doença terminal pede a alguém que compre um presente para conhecer um amigo por correspondência. Quem exatamente é a pessoa que ele quer ver?",
